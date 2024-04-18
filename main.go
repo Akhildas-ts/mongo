@@ -74,6 +74,10 @@ func main() {
 // 11. collection 
 // . its is group of document  we can call collection , its like table from the sql , 
 
+// 12. 12. What are the databases in mongoDb
+// . admin,local, config, these database are already craete by the mongodb 
+
+
 
 
 
