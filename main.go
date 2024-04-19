@@ -78,7 +78,8 @@ func main() {
 // . admin,local, config, these database are already craete by the mongodb 
 
 
-
+//13 what is mongo Shell 
+// . 
 
 
 
